@@ -1,1 +1,1 @@
-# CSS-Tailwind-CSS
+# Tailwind-CSS
